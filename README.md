@@ -14,6 +14,10 @@ We will have **three** different machines :
 
 The first and second machine will be on different network.
 
-For the first machine called **kali** the ip address is : ``192.168.1.2``
+- For the first machine called **kali** the ip address is : ``192.168.1.2``
 
-For the second machine called **kali2** its ip address is : ``192.168.2.2``
+- For the second machine called **kali2** its ip address is : ``192.168.2.2``
+
+
+
+
