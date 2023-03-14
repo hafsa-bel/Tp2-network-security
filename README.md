@@ -18,6 +18,15 @@ The first and second machine will be on different network.
 
 - For the second machine called **kali2** its ip address is : ``192.168.2.2``
 
+In the image bellow the third machine will work as a router with two interfaces.
+
+<p align="center">
+  <img width="1000" src="https://user-images.githubusercontent.com/73228919/225160013-3eb43128-6559-4cbb-b038-a8d61e6c8721.png">
+</p>
+
+
+
+
 
 
 
