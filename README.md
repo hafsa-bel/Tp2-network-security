@@ -31,7 +31,7 @@ Let's now configure our machine:
 - For the first machine we're going to set the ip address manually:
 
 <p align="center">
-  <img width="1000" src="https://user-images.githubusercontent.com/73228919/225417652-27623f7b-af38-40a1-bbc3-22eccf3e3e00.png">
+  <img height="500" width="500" src="https://user-images.githubusercontent.com/73228919/225417652-27623f7b-af38-40a1-bbc3-22eccf3e3e00.png">
 </p>
 
 Then we're going to test with the command ```Ifconfig```
