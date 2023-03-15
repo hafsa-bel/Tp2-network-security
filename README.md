@@ -34,7 +34,11 @@ Let's now configure our machine:
   <img width="700" src="https://user-images.githubusercontent.com/73228919/225417652-27623f7b-af38-40a1-bbc3-22eccf3e3e00.png">
 </p>
 
-Then we're going to test with the command ```Ifconfig```
+Then we're going to test with the command ``Ifconfig``.
+
+<p align="center">
+  <img width="700" src="https://user-images.githubusercontent.com/73228919/225418388-7c40c631-a5da-498c-967b-949eb67622e7.png">
+</p>
 
 
 
