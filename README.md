@@ -24,6 +24,19 @@ In the image bellow the third machine will work as a router with two interfaces.
   <img width="1000" src="https://user-images.githubusercontent.com/73228919/225160013-3eb43128-6559-4cbb-b038-a8d61e6c8721.png">
 </p>
 
+# 1) Configuration:
+
+Let's now configure our machine:
+
+- For the first machine we're going to set the ip address manually:
+
+<p align="center">
+  <img width="1000" src="https://user-images.githubusercontent.com/73228919/225417652-27623f7b-af38-40a1-bbc3-22eccf3e3e00.png">
+</p>
+
+Then we're going to test with the command ```Ifconfig```
+
+
 
 
 
