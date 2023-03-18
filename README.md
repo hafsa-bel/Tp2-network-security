@@ -55,7 +55,7 @@ Then we're going to test with the command ``Ifconfig``.
 - Now for the third machine which plays the role of a router we're going to set the adresses of both adapters
 
 <p align="center">
-  <img height="400" width="500" src="https://user-images.githubusercontent.com/73228919/226129853-ef041ebd-2cfa-4202-8000-2bfb47c438e2.png">
+  <img height="300" width="500" src="https://user-images.githubusercontent.com/73228919/226129853-ef041ebd-2cfa-4202-8000-2bfb47c438e2.png">
   <img width="500" src="https://user-images.githubusercontent.com/73228919/226129876-f90eeabd-ccdd-426c-9927-1af57bea4314.png">
 </p>
 
