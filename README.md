@@ -40,10 +40,24 @@ Then we're going to test with the command ``Ifconfig``.
   <img width="700" src="https://user-images.githubusercontent.com/73228919/225418388-7c40c631-a5da-498c-967b-949eb67622e7.png">
 </p>
 
+- Same thing for the second machine we're going to set the ip address manually:
 
+<p align="center">
+  <img width="700" src="https://user-images.githubusercontent.com/73228919/226129512-d4e99dba-cedf-4f3b-94af-0ce712664b8f.png">
+</p>
 
+Then we're going to test with the command ``Ifconfig``.
 
+<p align="center">
+  <img width="700" src="https://user-images.githubusercontent.com/73228919/226129516-070314c4-9029-4f53-947b-467d8b5fde38.png">
+</p>
 
+- Now for the third machine which plays the role of a router we're going to set the adresses of both adapters
+
+<p align="center">
+  <img width="500" src="https://user-images.githubusercontent.com/73228919/226129853-ef041ebd-2cfa-4202-8000-2bfb47c438e2.png">
+  <img width="500" src="https://user-images.githubusercontent.com/73228919/226129876-f90eeabd-ccdd-426c-9927-1af57bea4314.png">
+</p>
 
 
 
