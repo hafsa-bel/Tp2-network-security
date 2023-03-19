@@ -59,5 +59,10 @@ Then we're going to test with the command ``Ifconfig``.
   <img width="500" src="https://user-images.githubusercontent.com/73228919/226129876-f90eeabd-ccdd-426c-9927-1af57bea4314.png">
 </p>
 
+Then we're going to test with the command ``Ifconfig``.
+
+<p align="center">
+  <img width="700" src="https://user-images.githubusercontent.com/73228919/226174161-73efb99b-1cfe-4ba7-9707-e269d8604abe.png">
+</p>
 
 
