@@ -65,4 +65,11 @@ Then we're going to test with the command ``Ifconfig``.
   <img width="700" src="https://user-images.githubusercontent.com/73228919/226174161-73efb99b-1cfe-4ba7-9707-e269d8604abe.png">
 </p>
 
+- Then we're going to set the routing table and set the ip forwarding value to 1. The images bellow show the routing commands and the routing table and also the we changed the valur of the ipo forward to 1.
+
+<p align="center">
+  <img width="500" src="https://user-images.githubusercontent.com/73228919/226182527-af7d4474-5583-4805-87c8-03450e5574a6.png">
+  <img width="500" src="https://user-images.githubusercontent.com/73228919/226182555-04a6bd28-3778-4f0f-ba1b-cbfd320583dd.png">
+</p>
+
 
