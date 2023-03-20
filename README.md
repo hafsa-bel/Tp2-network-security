@@ -74,4 +74,5 @@ Then we're going to test with the command ``Ifconfig``.
 
 <font color="red">Ce paragraphe est en rouge</font>
 
-
+<p color="red"> hi
+</p>
