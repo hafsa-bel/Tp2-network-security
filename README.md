@@ -79,3 +79,6 @@ Then we're going to test with the command ``Ifconfig``.
 # text in gray
 @@ text in purple (and bold)@@
 ```
+
+<style>H1{color:Blue;}</style>
+
