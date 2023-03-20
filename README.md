@@ -72,4 +72,10 @@ Then we're going to test with the command ``Ifconfig``.
   <img width="500" src="https://user-images.githubusercontent.com/73228919/226182555-04a6bd28-3778-4f0f-ba1b-cbfd320583dd.png">
 </p>
 
+```diff
 - text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
