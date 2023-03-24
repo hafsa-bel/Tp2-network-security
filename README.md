@@ -77,7 +77,7 @@ Then we're going to test with the command ``Ifconfig``.
 https://user-images.githubusercontent.com/73228919/227377301-deb1daf8-66ac-4841-9b0d-05107d3d2817.mp4
 
 
-As we can see in the video we started wireshark in the routing machine and we captured the network traffic.
+As we can see in the video we started ``wireshark`` in the routing machine and we captured the ***network traffic***.
 
 The next step we're going to analyze the **trams**.
 
