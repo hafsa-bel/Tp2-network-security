@@ -72,18 +72,13 @@ Then we're going to test with the command ``Ifconfig``.
   <img width="500" src="https://user-images.githubusercontent.com/73228919/226182555-04a6bd28-3778-4f0f-ba1b-cbfd320583dd.png">
 </p>
 
-Now here's a demo that demonstrates the pinging between the machines.
+- Now here's a demo that demonstrates the pinging between the machines.
 
 https://user-images.githubusercontent.com/73228919/227377301-deb1daf8-66ac-4841-9b0d-05107d3d2817.mp4
 
+As we can see in the video we started wireshark in the routing machine and we captured the network traffic.
 
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
+The next step we're going to analyze the @@trams.
 
 <p align="center">
   <img width="500" src="https://user-images.githubusercontent.com/73228919/227197397-dd5d926e-87a5-4a2f-a967-fc7765e66fdb.png">
