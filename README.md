@@ -72,6 +72,11 @@ Then we're going to test with the command ``Ifconfig``.
   <img width="500" src="https://user-images.githubusercontent.com/73228919/226182555-04a6bd28-3778-4f0f-ba1b-cbfd320583dd.png">
 </p>
 
+Now here's a demo that demonstrates the pinging between the machines.
+
+https://user-images.githubusercontent.com/73228919/227377301-deb1daf8-66ac-4841-9b0d-05107d3d2817.mp4
+
+
 ```diff
 - text in red
 + text in green
