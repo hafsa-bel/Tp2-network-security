@@ -76,14 +76,17 @@ Then we're going to test with the command ``Ifconfig``.
 
 https://user-images.githubusercontent.com/73228919/227377301-deb1daf8-66ac-4841-9b0d-05107d3d2817.mp4
 
+
 As we can see in the video we started wireshark in the routing machine and we captured the network traffic.
 
-The next step we're going to analyze the @@trams@@ 
+The next step we're going to analyze the **trams**.
 
 <p align="center">
   <img width="500" src="https://user-images.githubusercontent.com/73228919/227197397-dd5d926e-87a5-4a2f-a967-fc7765e66fdb.png">
   <img width="500" src="https://user-images.githubusercontent.com/73228919/227197487-204b95d2-7224-44d2-bda6-7db9c29fa657.png">
 </p>
+
+
 
 
 
