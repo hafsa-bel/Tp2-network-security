@@ -78,7 +78,7 @@ https://user-images.githubusercontent.com/73228919/227377301-deb1daf8-66ac-4841-
 
 As we can see in the video we started wireshark in the routing machine and we captured the network traffic.
 
-The next step we're going to analyze the @@trams.
+The next step we're going to analyze the @@trams@@ 
 
 <p align="center">
   <img width="500" src="https://user-images.githubusercontent.com/73228919/227197397-dd5d926e-87a5-4a2f-a967-fc7765e66fdb.png">
