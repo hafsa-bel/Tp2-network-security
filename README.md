@@ -72,6 +72,8 @@ Then we're going to test with the command ``Ifconfig``.
   <img width="500" src="https://user-images.githubusercontent.com/73228919/226182555-04a6bd28-3778-4f0f-ba1b-cbfd320583dd.png">
 </p>
 
+# 2) Wireshark:
+
 - Now here's a demo that demonstrates the pinging between the machines.
 
 https://user-images.githubusercontent.com/73228919/227377301-deb1daf8-66ac-4841-9b0d-05107d3d2817.mp4
@@ -86,6 +88,11 @@ The next step we're going to analyze the **trams**.
   <img width="500" src="https://user-images.githubusercontent.com/73228919/227197487-204b95d2-7224-44d2-bda6-7db9c29fa657.png">
 </p>
 
+# Conclusion:
+
+In conclusion, the analysis of the tram network architecture using Wireshark provided a detailed understanding of the network design and communication protocols. By examining the network traffic, it was possible to identify the various components of the tram network and their communication patterns.
+
+The analysis revealed that the tram network consists of several interconnected nodes and devices, including switches, routers, and tram vehicles. The communication between these devices is facilitated by various protocols, including Ethernet, TCP/IP, and UDP. By understanding the communication protocols used in the network, it is possible to design and implement more efficient and reliable tram networks.
 
 
 
