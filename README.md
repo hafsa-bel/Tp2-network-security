@@ -95,6 +95,7 @@ In conclusion, the analysis of the tram network architecture using Wireshark pro
 The analysis revealed that the tram network consists of several interconnected nodes and devices, including switches, routers, and tram vehicles. The communication between these devices is facilitated by various protocols, including Ethernet, TCP/IP, and UDP. By understanding the communication protocols used in the network, it is possible to design and implement more efficient and reliable tram networks.
 
 
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
