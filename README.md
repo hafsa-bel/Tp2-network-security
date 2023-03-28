@@ -12,7 +12,7 @@ First of all, here's an overview of how our configuration schema:
 
 We will have **three** different machines : 
 
-The first and second machine will be on different network.
+The first and second machine will be on different networks.
 
 - For the first machine called **kali** the ip address is : ``192.168.1.2``
 
@@ -28,7 +28,7 @@ In the image bellow the third machine will work as a router with two interfaces.
 
 Let's now configure our machine:
 
-- For the first machine we're going to set the ip address manually:
+- For the ***first*** machine (*client*) we're going to set the ip address manually:
 
 <p align="center">
   <img width="700" src="https://user-images.githubusercontent.com/73228919/225417652-27623f7b-af38-40a1-bbc3-22eccf3e3e00.png">
@@ -40,7 +40,7 @@ Then we're going to test with the command ``Ifconfig``.
   <img width="700" src="https://user-images.githubusercontent.com/73228919/225418388-7c40c631-a5da-498c-967b-949eb67622e7.png">
 </p>
 
-- Same thing for the second machine we're going to set the ip address manually:
+- Same thing for the ***second*** machine (*client*) we're going to set the ip address manually:
 
 <p align="center">
   <img width="700" src="https://user-images.githubusercontent.com/73228919/226129512-d4e99dba-cedf-4f3b-94af-0ce712664b8f.png">
@@ -52,7 +52,16 @@ Then we're going to test with the command ``Ifconfig``.
   <img width="700" src="https://user-images.githubusercontent.com/73228919/226129516-070314c4-9029-4f53-947b-467d8b5fde38.png">
 </p>
 
-- Now for the third machine which plays the role of a router we're going to set the adresses of both adapters
+- Now for the ***third*** machine which plays the role of a *router*
+
+First we're going to set two adapters as the images bellow show:
+
+<p align="center">
+  <img width="500" src="https://user-images.githubusercontent.com/73228919/228249860-91255e52-2f7e-4387-b59f-7211c6cb4119.png">
+  <img width="500" src="https://user-images.githubusercontent.com/73228919/228249888-cedb800b-42ea-416b-a09c-c90e05526483.png">
+</p>
+
+Then we're going to set the ip adresses of both adapters:
 
 <p align="center">
   <img height="400" width="500" src="https://user-images.githubusercontent.com/73228919/226129853-ef041ebd-2cfa-4202-8000-2bfb47c438e2.png">
